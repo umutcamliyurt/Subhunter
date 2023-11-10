@@ -1,0 +1,482 @@
+[
+  {
+    "service": "AWS/Elastic Beanstalk",
+    "cname": ["elasticbeanstalk.com"],
+    "fingerprint": "NXDOMAIN"
+  },
+  {
+    "service": "AWS/S3",
+    "cname": ["s3.amazonaws.com"],
+    "fingerprint": "The specified bucket does not exist"
+  },
+  {
+    "service": "Agile CRM",
+    "cname": ["agilecrm.com"],
+    "fingerprint": "Sorry, this page is no longer available."
+  },
+  {
+    "service": "Airee.ru",
+    "cname": ["airee.ru"],
+    "fingerprint": "Ошибка 402. Сервис Айри.рф не оплачен"
+  },
+  {
+    "service": "Anima",
+    "cname": ["animaapp.io"],
+    "fingerprint": "The page you were looking for does not exist."
+  },
+  {
+    "service": "Bitbucket",
+    "cname": ["bitbucket.io"],
+    "fingerprint": "Repository not found"
+  },
+  {
+    "service": "Campaign Monitor",
+    "cname": [],
+    "fingerprint": "Trying to access your account?"
+  },
+  {
+    "service": "Canny",
+    "cname": [],
+    "fingerprint": "Company Not Found. There is no such company. Did you enter the right URL?"
+  },
+  {
+    "service": "Cargo Collective",
+    "cname": [],
+    "fingerprint": "404 Not Found"
+  },
+  {
+    "service": "Digital Ocean",
+    "cname": [],
+    "fingerprint": "Domain uses DO name servers with no records in DO."
+  },
+  {
+    "service": "Discourse",
+    "cname": ["trydiscourse.com"],
+    "fingerprint": "NXDOMAIN"
+  },
+  {
+    "service": "Gemfury",
+    "cname": ["furyns.com"],
+    "fingerprint": "404: This page could not be found."
+  },
+  {
+    "service": "Getresponse",
+    "cname": [],
+    "fingerprint": "With GetResponse Landing Pages, lead generation has never been easier"
+  },
+  {
+    "service": "Ghost",
+    "cname": ["ghost.io"],
+    "fingerprint": "Site unavailable. Failed to resolve DNS path for this host"
+  },
+  {
+    "service": "HatenaBlog",
+    "cname": ["hatenablog.com"],
+    "fingerprint": "404 Blog is not found"
+  },
+  {
+    "service": "Help Juice",
+    "cname": ["helpjuice.com"],
+    "fingerprint": "We could not find what you're looking for."
+  },
+  {
+    "service": "Help Scout",
+    "cname": ["helpscoutdocs.com"],
+    "fingerprint": "No settings were found for this company:"
+  },
+  {
+    "service": "Helprace",
+    "cname": ["helprace.com"],
+    "fingerprint": "HTTP_STATUS=301"
+  },
+  {
+    "service": "JetBrains",
+    "cname": ["youtrack.cloud"],
+    "fingerprint": "is not a registered InCloud YouTrack"
+  },
+  {
+    "service": "LaunchRock",
+    "cname": ["launchrock.com"],
+    "fingerprint": "HTTP_STATUS=500"
+  },
+  {
+    "service": "Microsoft Azure",
+    "cname": [
+      "cloudapp.net",
+      "cloudapp.azure.com",
+      "azurewebsites.net",
+      "blob.core.windows.net",
+      "cloudapp.azure.com",
+      "azure-api.net",
+      "azurehdinsight.net",
+      "azureedge.net",
+      "azurecontainer.io",
+      "database.windows.net",
+      "azuredatalakestore.net",
+      "search.windows.net",
+      "azurecr.io",
+      "redis.cache.windows.net",
+      "azurehdinsight.net",
+      "servicebus.windows.net",
+      "visualstudio.com"
+    ],
+    "fingerprint": "NXDOMAIN"
+  },
+  {
+    "service": "Ngrok",
+    "cname": ["ngrok.io"],
+    "fingerprint": "Tunnel .*ngrok.io not found"
+  },
+  {
+    "service": "Pantheon",
+    "cname": [],
+    "fingerprint": "404 error unknown site!"
+  },
+  {
+    "service": "Pingdom",
+    "cname": [],
+    "fingerprint": "Sorry, couldn't find the status page"
+  },
+  {
+    "service": "Readme.io",
+    "cname": ["readme.io"],
+    "fingerprint": "The creators of this project are still working on making everything perfect!"
+  },
+  {
+    "service": "Readthedocs",
+    "cname": [],
+    "fingerprint": "The link you have followed or the URL that you entered does not exist."
+  },
+  {
+    "service": "Short.io",
+    "cname": [],
+    "fingerprint": "Link does not exist"
+  },
+  {
+    "service": "SmartJobBoard",
+    "cname": ["52.16.160.97"],
+    "fingerprint": "This job board website is either expired or its domain name is invalid."
+  },
+  {
+    "service": "Smugsmug",
+    "cname": [],
+    "fingerprint": ""
+  },
+  {
+    "service": "Strikingly",
+    "cname": ["s.strikinglydns.com"],
+    "fingerprint": "PAGE NOT FOUND."
+  },
+  {
+    "service": "Surge.sh",
+    "cname": ["na-west1.surge.sh"],
+    "fingerprint": "project not found"
+  },
+  {
+    "service": "SurveySparrow",
+    "cname": ["surveysparrow.com"],
+    "fingerprint": "Account not found."
+  },
+  {
+    "service": "Uberflip",
+    "cname": ["read.uberflip.com"],
+    "fingerprint": "The URL you've accessed does not provide a hub."
+  },
+  {
+    "service": "Uptimerobot",
+    "cname": ["stats.uptimerobot.com"],
+    "fingerprint": "page not found"
+  },
+  {
+    "service": "Wordpress",
+    "cname": ["wordpress.com"],
+    "fingerprint": "Do you want to register .*wordpress.com?"
+  },
+  {
+    "service": "Worksites",
+    "cname": ["worksites.net", "69.164.223.206"],
+    "fingerprint": "Hello! Sorry, but the website you’re looking for doesn’t exist."
+  },
+  {
+    "service": "GitHub",
+    "cname": ["github.io", "github.map.fastly.net"],
+    "fingerprint": [
+      "There isn't a GitHub Pages site here.",
+      "For root URLs (like http://example.com/) you must provide an index.html file"
+    ]
+  },
+  {
+    "service": "Heroku",
+    "cname": ["herokudns.com", "herokussl.com", "herokuapp.com"],
+    "fingerprint": [
+      "There's nothing here, yet.",
+      "herokucdn.com/error-pages/no-such-app.html",
+      "<title>No such app</title>"
+    ]
+  },
+  {
+    "service": "Unbounce",
+    "cname": ["unbouncepages.com"],
+    "fingerprint": [
+      "The requested URL / was not found on this server.",
+      "The requested URL was not found on this server"
+    ]
+  },
+  {
+    "service": "Tumblr",
+    "cname": ["tumblr.com"],
+    "fingerprint": [
+      "There's nothing here.",
+      "Whatever you were looking for doesn't currently exist at this address."
+    ]
+  },
+  {
+    "service": "Shopify",
+    "cname": ["myshopify.com"],
+    "fingerprint": [
+      "Sorry, this shop is currently unavailable.",
+      "Only one step left!"
+    ]
+  },
+  {
+    "service": "Instapage",
+    "cname": ["pageserve.co", "secure.pageserve.co", "https://instapage.com/"],
+    "fingerprint": ["You've Discovered A Missing Link. Our Apologies!"]
+  },
+  {
+    "service": "Desk",
+    "cname": ["desk.com"],
+    "fingerprint": [
+      "Please try again or try Desk.com free for 14 days.",
+      "Sorry, We Couldn't Find That Page"
+    ]
+  },
+  {
+    "service": "Tictail",
+    "cname": ["tictail.com", "domains.tictail.com"],
+    "fingerprint": [
+      "Building a brand of your own?",
+      "to target URL: <a href=\"https://tictail.com",
+      "Start selling on Tictail."
+    ]
+  },
+  {
+    "service": "Campaign Monitor",
+    "cname": ["createsend.com", "name.createsend.com"],
+    "fingerprint": [
+      "Double check the URL",
+      "<strong>Trying to access your account?</strong>"
+    ]
+  },
+  {
+    "service": "Cargo Collective",
+    "cname": ["cargocollective.com"],
+    "fingerprint": ["404 Not Found"]
+  },
+  {
+    "service": "Statuspage",
+    "cname": ["statuspage.io"],
+    "fingerprint": ["Better Status Communication", "You are being <a href=\"https://www.statuspage.io\">redirected"]
+  },
+  {
+    "service": "Amazon AWS",
+    "cname": ["amazonaws.com"],
+    "fingerprint": ["NoSuchBucket", "The specified bucket does not exist"]
+  },
+  {
+    "service": "Cloudfront",
+    "cname": ["cloudfront.net"],
+    "fingerprint": ["The request could not be satisfied", "ERROR: The request could not be satisfied"]
+  },
+  {
+    "service": "Bitbucket",
+    "cname": ["bitbucket.org"],
+    "fingerprint": ["The page you have requested does not exist"]
+  },
+  {
+    "service": "Smartling",
+    "cname": ["smartling.com"],
+    "fingerprint": ["Domain is not configured"]
+  },
+  {
+    "service": "Acquia",
+    "cname": ["acquia.com"],
+    "fingerprint": ["If you are an Acquia Cloud customer and expect to see your site at this address"]
+  },
+  {
+    "service": "Fastly",
+    "cname": ["fastly.net"],
+    "fingerprint": ["Please check that this domain has been added to a service", "Fastly error: unknown domain"]
+  },
+  {
+    "service": "Pantheon",
+    "cname": ["pantheonsite.io"],
+    "fingerprint": ["The gods are wise", "The gods are wise, but do not know of the site which you seek."]
+  },
+  {
+    "service": "Zendesk",
+    "cname": ["zendesk.com"],
+    "fingerprint": ["<title>Help Center Closed | Zendesk</title>", "Help Center Closed"]
+  },
+  {
+    "service": "UserVoice",
+    "cname": ["uservoice.com"],
+    "fingerprint": ["This UserVoice subdomain is currently available!"]
+  },
+  {
+    "service": "Ghost",
+    "cname": ["ghost.io"],
+    "fingerprint": ["The thing you were looking for is no longer here", "The thing you were looking for is no longer here, or never was"]
+  },
+  {
+    "service": "Pingdom",
+    "cname": ["stats.pingdom.com"],
+    "fingerprint": ["pingdom"]
+  },
+  {
+    "service": "Tilda",
+    "cname": ["tilda.ws"],
+    "fingerprint": ["Domain has been assigned"]
+  },
+  {
+    "service": "Wordpress",
+    "cname": ["wordpress.com"],
+    "fingerprint": ["Do you want to register"]
+  },
+  {
+    "service": "Teamwork",
+    "cname": ["teamwork.com"],
+    "fingerprint": ["Oops - We didn't find your site."]
+  },
+  {
+    "service": "Help Juice",
+    "cname": ["helpjuice.com"],
+    "fingerprint": ["We could not find what you're looking for."]
+  },
+  {
+    "service": "Help Scout",
+    "cname": ["helpscoutdocs.com"],
+    "fingerprint": ["No settings were found for this company:"]
+  },
+  {
+    "service": "Cargo Collective",
+    "cname": ["cargocollective.com"],
+    "fingerprint": ["If you're moving your domain away from Cargo you must make this configuration through your registrar's DNS control panel."]
+  },
+  {
+    "service": "Feedpress",
+    "cname": ["redirect.feedpress.me"],
+    "fingerprint": ["The feed has not been found."]
+  },
+  {
+    "service": "Surge",
+    "cname": ["surge.sh"],
+    "fingerprint": ["project not found"]
+  },
+  {
+    "service": "SurveyGizmo",
+    "cname": ["privatedomain.sgizmo.com", "privatedomain.surveygizmo.eu", "privatedomain.sgizmoca.com"],
+    "fingerprint": ["data-html-name"]
+  },
+  {
+    "service": "Mashery",
+    "cname": ["mashery.com"],
+    "fingerprint": ["Unrecognized domain <strong>"]
+  },
+  {
+    "service": "Intercom",
+    "cname": ["custom.intercom.help"],
+    "fingerprint": ["This page is reserved for artistic dogs.", "<h1 class=\"headline\">Uh oh. That page doesn’t exist.</h1>"]
+  },
+  {
+    "service": "Webflow",
+    "cname": ["proxy.webflow.io"],
+    "fingerprint": ["<p class=\"description\">The page you are looking for doesn't exist or has been moved.</p>"]
+  },
+  {
+    "service": "Kajabi",
+    "cname": ["endpoint.mykajabi.com"],
+    "fingerprint": ["<h1>The page you were looking for doesn't exist.</h1>"]
+  },
+  {
+    "service": "Thinkific",
+    "cname": ["thinkific.com"],
+    "fingerprint": ["You may have mistyped the address or the page may have moved."]
+  },
+  {
+    "service": "Tave",
+    "cname": ["clientaccess.tave.com"],
+    "fingerprint": ["<h1>Error 404: Page Not Found</h1>"]
+  },
+  {
+    "service": "Wishpond",
+    "cname": ["wishpond.com"],
+    "fingerprint": ["https://www.wishpond.com/404?campaign=true"]
+  },
+  {
+    "service": "AfterShip",
+    "cname": ["aftership.com"],
+    "fingerprint": ["Oops.</h2><p class=\"text-muted text-tight\">The page you're looking for doesn't exist."]
+  },
+  {
+    "service": "Aha",
+    "cname": ["ideas.aha.io"],
+    "fingerprint": ["There is no portal here ... sending you back to Aha!"]
+  },
+  {
+    "service": "Brightcove",
+    "cname": ["brightcovegallery.com", "gallery.video", "bcvp0rtal.com"],
+    "fingerprint": ["<p class=\"bc-gallery-error-code\">Error Code: 404</p>"]
+  },
+  {
+    "service": "Bigcartel",
+    "cname": ["bigcartel.com"],
+    "fingerprint": ["<h1>Oops! We couldn&#8217;t find that page.</h1>"]
+  },
+  {
+    "service": "ActiveCampaign",
+    "cname": ["activehosted.com"],
+    "fingerprint": ["alt=\"LIGHTTPD - fly light.\""]
+  },
+  {
+    "service": "Campaign Monitor",
+    "cname": ["createsend.com"],
+    "fingerprint": ["Double check the URL or <a href=\"mailto:help@createsend.com"]
+  },
+  {
+    "service": "Acquia",
+    "cname": ["acquia-test.co"],
+    "fingerprint": ["The site you are looking for could not be found."]
+  },
+  {
+    "service": "Proposify",
+    "cname": ["proposify.biz"],
+    "fingerprint": ["If you need immediate assistance, please contact <a href=\"mailto:support@proposify.biz"]
+  },
+  {
+    "service": "Simplebooklet",
+    "cname": ["simplebooklet.com"],
+    "fingerprint": ["We can't find this <a href=\"https://simplebooklet.com"]
+  },
+  {
+    "service": "GetResponse",
+    "cname": [".gr8.com"],
+    "fingerprint": ["With GetResponse Landing Pages, lead generation has never been easier"]
+  },
+  {
+    "service": "Vend",
+    "cname": ["vendecommerce.com"],
+    "fingerprint": ["Looks like you've traveled too far into cyberspace."]
+  },
+  {
+    "service": "JetBrains",
+    "cname": ["myjetbrains.com"],
+    "fingerprint": ["is not a registered InCloud YouTrack."]
+  },
+  {
+    "service": "Azure",
+    "cname": ["azurewebsites.net"],
+    "fingerprint": ["404 Web Site not found"]
+  }
+]
+
